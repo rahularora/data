@@ -5,6 +5,9 @@
   "speakers": [
     "Miguel Grinberg"
   ],
+  "tags": [
+    "asynchronous",
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/iG6fr81xHKA/hqdefault.jpg",
   "title": "Asynchronous Python for the Complete Beginner",
   "videos": [
